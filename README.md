@@ -11,8 +11,15 @@ with the result of GA in the papers
 <li>Random generate an universal equation for all of various ChemBL drug with top 1% dataset.</li>
 <li>Compare the GP result with Genetic algorithm (GA) result</li>
 
-## Article Reference : 
+## Understanding GP
+I did discovery on GP by studying [gplearn Documentation](https://gplearn.readthedocs.io/en/stable/intro.html)
+and [A Field Guide to Genetic Programming](http://www0.cs.ucl.ac.uk/staff/W.Langdon/ftp/papers/poli08_fieldguide.pdf).
+
+
+## Citation: 
 <ol>
-<li>http://eprints.whiterose.ac.uk/116212/</li>
-<li>https://pubs.acs.org/doi/abs/10.1021/ci500540s</li>
+<li>Holliday, J., Nor Sani, and Peter Willett. 
+  [Ligand-based virtual screening using a genetic algorithm with data fusion](https://match.pmf.kg.ac.rs/electronic_versions/Match80/n3/match80n3_623-638.pdf). 
+  Match: Communications in Mathematical and in Computer Chemistry 80.3 (2018).</li>
+<li>(http://eprints.whiterose.ac.uk/116212/)</li>
 </ol>
