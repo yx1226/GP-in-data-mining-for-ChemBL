@@ -20,10 +20,14 @@ The [modules](https://gplearn.readthedocs.io/en/stable/_modules/index.html) are 
 
 ## Citation: 
 <ol>
-<li>Holliday, J., Nor Sani, and Peter Willett. 
-  "Ligand-based virtual screening using a genetic algorithm with data fusion". 
-  *Match: Communications in Mathematical and in Computer Chemistry 80.3* (2018).</li>
-<li>Holliday, John D., Nor Sani, and Peter Willett. 
-  "Calculation of substructural analysis weights using a genetic algorithm." 
-  *Journal of chemical information and modeling 55.2* (2015): 214-221.</li>
+  <li>
+    Holliday, J., Nor Sani, and Peter Willett.
+    "Ligand-based virtual screening using a genetic algorithm with data fusion". 
+    Match: Communications in Mathematical and in Computer Chemistry 80.3 (2018).
+  </li>
+  <li>
+    Holliday, John D., Nor Sani, and Peter Willett. 
+    "Calculation of substructural analysis weights using a genetic algorithm." 
+    Journal of chemical information and modeling 55.2 (2015): 214-221.
+  </li>
 </ol>
